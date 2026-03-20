@@ -266,7 +266,7 @@ SOC performance is measured using:
 
 ---
 
-# 🛡️ SOC Best Practices
+#  SOC Best Practices
 
 ✔ Monitor systems **24/7**
 ✔ Automate repetitive tasks
